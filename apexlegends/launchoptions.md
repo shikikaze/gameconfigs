@@ -1,0 +1,1 @@
+-dev -high -full -preload +fps_max 0 +cl_showpos 1 +exec autoexec 
